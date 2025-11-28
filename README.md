@@ -2,6 +2,8 @@
 **Autor:** Steven Alexander Hernandez Jiminez  
 **Rol:** Senior Full-Stack Software Engineer
 
+[taller tecnico senior](prueba_tecnica_avanzada.doc)
+
 # CODIGO 50%
 
 # Python análisis de Primos
