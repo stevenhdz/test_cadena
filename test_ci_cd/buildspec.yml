@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "No hay dependencias que instalar."
+  build:
+    commands:
+      - echo "No hay build, solo empaquetar archivos estáticos."
+
+artifacts:
+  files:
+    - '**/*'
+  base-directory: .
