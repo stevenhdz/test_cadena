@@ -1,8 +1,8 @@
 # test_cadena
 
-# CODE 50%
+# CODIGO 50%
 
-# code python Análisis de Primos (Criba vs is_prime)
+# Python análisis de Primos
 
 ## Características implementadas
 - Aplicación de principios **SOLID**.
@@ -49,7 +49,7 @@ Aca es importante saber que existe una manera basica de hace is_prime() sin emba
 ![alt text](source/image1.png)
 
 
- # code c# Palindromos
+ # C# Palindromos
 
 - Patrón **SOLID** aplicado.
 - Complejidad:
