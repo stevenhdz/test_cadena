@@ -241,3 +241,10 @@ Ejemplo:
 [ejemplo de codigo en test_s3](test_s3/) 
 
 Amazon S3 es almacenamiento de objetos escalable y durable; se usa para sitios estaticos, uploads, logs, backups y data lakes. Con Python puedes subir y descargar archivos facilmente usando la libreria boto3.
+
+----
+
+Para efectos practicos de laboratorio:
+
+Analisis de requerimientos funcionales y no funcionales (se asumieron).
+Inquietudes por favor hablarlas conmigo para despejarlas.
