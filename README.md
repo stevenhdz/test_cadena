@@ -1,4 +1,6 @@
-# test_cadena
+# Prueba tecnica avanzada (senior)
+**Autor:** Steven Alexander Hernandez Jiminez  
+**Rol:** Senior Full-Stack Software Engineer
 
 # CODIGO 50%
 
